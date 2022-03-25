@@ -1,5 +1,6 @@
-### Hi there 👋
- 📫 How to reach me: 
+### Hi everyone 👋 I'm Mercy Bore
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://i.gifer.com/7LIp.gif" height="100" /></a>
+
 
 <!--
 **macc254/macc254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
