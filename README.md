@@ -1,5 +1,5 @@
 ### Hi everyone 👋 I'm Mercy Bore
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://i.gifer.com/7LIp.gif" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://i.gifer.com/G1JO.gif" height="100" /></a>
 
 
 <!--
