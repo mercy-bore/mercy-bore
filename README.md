@@ -1,7 +1,8 @@
 ### Hi everyone 👋 I'm Mercy Bore
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn.britannica.com/30/199930-131-B3D1D347/computer.jpg?q=60" height="100" width="400" /></a>
-
-
+- 🔭 I’m currently working on  Python Web in Django
+- 🌱 I’m currently learning Flutter, Javascript, React and Node
+- 💬 Ask me about Flask, Django, Angular, PostGres
+- 😄 Pronouns: Her
 <!--
 **macc254/macc254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,16 +19,12 @@ Here are some ideas to get you started:
 -->
 [![](https://raw.githubusercontent.com/macc254/macc254/main/chat.svg?token=AAABPWFQB3UQVH67GAPKNRLAXLBQG)](https://twitter.com/@mercybore3)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=macc254&theme=jolly&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-- 🔭 I’m currently working on  Python Web in Django
-- 🌱 I’m currently learning Flutter, Javascript, React and Node
-- 💬 Ask me about Flask, Django, Angular, PostGres
-- 😄 Pronouns: Her
 
 [![wakatime](https://wakatime.com/badge/user/b44b1356-dee7-4791-a127-91e80dac6093.svg)](https://wakatime.com/@b44b1356-dee7-4791-a127-91e80dac6093) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=macc254&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macc254&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=macc254&show_icons=true&theme=radical&count_private=true)](https://github.com/macc254/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macc254&layout=compact)](https://github.com/macc254/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cyberboolean)](https://github.com/anuraghazra/github-readme-stats)  
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=macc254)](https://github.com/macc254/github-readme-stats)  
 
 
 
