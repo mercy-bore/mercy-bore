@@ -1,5 +1,5 @@
 ### Hi everyone 👋 I'm Mercy Bore
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn.britannica.com/30/199930-131-B3D1D347/computer.jpg?q=60" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn.britannica.com/30/199930-131-B3D1D347/computer.jpg?q=60" height="100" width="400" /></a>
 
 
 <!--
