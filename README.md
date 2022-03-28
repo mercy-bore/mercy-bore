@@ -1,8 +1,10 @@
-### Hi everyone 👋 I'm Mercy Bore
+### Hi everyone 👋 I'm Mercy Bore✨✨
 - 🔭 I’m currently working on  Python Web in Django
 - 🌱 I’m currently learning Flutter, Javascript, React and Node
 - 💬 Ask me about Flask, Django, Angular, PostGres
-- 😄 Pronouns: Her
+- 😄 Pronouns: Her ✨
+-  📫 How to reach me: mercycherotich757@gmail.com
+
 <!--
 **macc254/macc254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
