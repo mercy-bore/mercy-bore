@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![](https://raw.githubusercontent.com/mercy-bore/mercy-bore/main/chat.svg?token=AAABPWFQB3UQVH67GAPKNRLAXLBQG)](https://twitter.com/@mercybore3)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mercy-bore&theme=jolly&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![wakatime](https://wakatime.com/badge/user/b44b1356-dee7-4791-a127-91e80dac6093.svg)](https://wakatime.com/@b44b1356-dee7-4791-a127-91e80dac6093) 
+<!-- [![wakatime](https://wakatime.com/badge/user/b44b1356-dee7-4791-a127-91e80dac6093.svg)](https://wakatime.com/@b44b1356-dee7-4791-a127-91e80dac6093)  -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercy-bore&show_icons=true&theme=radical&count_private=true)](https://github.com/mercy-bore/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mercy-bore&layout=compact)](https://github.com/mercy-bore/github-readme-stats)
 
