@@ -1,4 +1,4 @@
-### Hi everyone 👋 I'm Mercy Cherotich Bore✨✨
+### Hi everyone 👋 I'm Mercy Bore✨✨
 - 🔭 I’m currently working on  Python Web in Django
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about Flask, Django, Angular, PostGres
