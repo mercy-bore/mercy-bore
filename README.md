@@ -1,7 +1,7 @@
 ### Hi everyone 👋 I'm Mercy Bore✨✨
 - 🔭 I’m currently working on  Python Web in Django
-- 🌱 I’m currently learning Flutter
-- 💬 Ask me about Flask, Django, Angular, PostGres
+- 🌱 I’m currently learning Java EE(Enterprise)
+- 💬 Ask me about Python, Flask, Django, Angular, PostGres
 - 😄 Pronouns: Her ✨
 -  📫 How to reach me: mercycherotich757@gmail.com
 
