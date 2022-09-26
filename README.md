@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Java EE(Enterprise)
 - 💬 Ask me about Python, Flask, Django, Angular, PostGres
 - 😄 Pronouns: Her ✨
--  📫 How to reach me: mercycherotich757@gmail.com
+- 📫 How to reach me: mercycherotich757@gmail.com
+- 😄 Checkout my CodersRank profile https://profile.codersrank.io/user/mercy-bore
 
 <!--
 **macc254/macc254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,9 +25,9 @@ Here are some ideas to get you started:
 
 <!-- [![wakatime](https://wakatime.com/badge/user/b44b1356-dee7-4791-a127-91e80dac6093.svg)](https://wakatime.com/@b44b1356-dee7-4791-a127-91e80dac6093)  -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercy-bore&show_icons=true&theme=radical&count_private=true)](https://github.com/mercy-bore/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mercy-bore&layout=compact)](https://github.com/mercy-bore/github-readme-stats)
+[![Mercy GitHub stats](https://github-readme-stats.vercel.app/api?username=mercy-bore&show_icons=true&theme=radical&count_private=true)](https://github.com/mercy-bore/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mercy-bore&layout=compact)](https://github.com/mercy-bore/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cyberboolean)](https://github.com/anuraghazra/github-readme-stats)  
+[![Mercy wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mercy-bore](https://github.com/mercy-bore/github-readme-stats)  
 
 
 
