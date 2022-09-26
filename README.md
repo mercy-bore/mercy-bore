@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 [![Mercy GitHub stats](https://github-readme-stats.vercel.app/api?username=mercy-bore&show_icons=true&theme=radical&count_private=true)](https://github.com/mercy-bore/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mercy-bore&layout=compact)](https://github.com/mercy-bore/github-readme-stats)
 
-[![Mercy wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mercybore](https://github.com/mercybore/github-readme-stats)  
-
+<!-- [![Mercy wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mercybore](https://github.com/mercybore/github-readme-stats)  
+ -->
 
 
 
