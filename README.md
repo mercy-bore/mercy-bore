@@ -1,7 +1,6 @@
 ### Hi everyone 👋 I'm Mercy Bore✨✨
-- 🔭 I’m currently working on  Python Web in Django
-- 🌱 I’m currently learning Java EE(Enterprise)
-- 💬 Ask me about Python, Flask, Django, Angular, PostGres
+- 🔭 I’m currently working on  Java EE
+- 💬 Ask me about Java SE, EE, Wildfly, Maven 
 - 😄 Pronouns: Her ✨
 - 📫 How to reach me: mercycherotich757@gmail.com
 - 😄 Checkout my CodersRank profile https://profile.codersrank.io/user/mercy-bore
