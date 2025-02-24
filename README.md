@@ -1,6 +1,6 @@
 ### Hi everyone 👋 I'm Mercy Bore✨✨
 - 🔭 I’m currently working on  Java EE
-- 💬 Ask me about Java SE, EE, Wildfly, Maven 
+- 💬 Ask me about Java
 - 😄 Pronouns: Her ✨
 - 📫 How to reach me: mercycherotich757@gmail.com
 - 😄 Checkout my CodersRank profile https://profile.codersrank.io/user/mercy-bore
